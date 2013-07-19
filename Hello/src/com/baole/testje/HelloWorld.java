@@ -7,9 +7,6 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hi");
-		System.out.println("Hallo");
-		System.out.println("Hi Hallo its me");
-		System.out.println("Hi Hallo Another Hallo");
 	}
 
 }
